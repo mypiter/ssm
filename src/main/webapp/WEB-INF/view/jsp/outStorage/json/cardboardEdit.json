@@ -1,0 +1,19 @@
+{
+    "pur_id":1,
+    "order_account":"456556465",
+    "corporate_name":"秋天传媒有限公司",
+    "suppier_name":"江西纸板总办",
+    "material":"A级",
+    "pit_type":"BC",
+    "spec":"20x30",
+    "square":600,
+    "square_sum":1205,
+    "time":"2017.1.1",
+    "num":100,
+    "price":"3.5",
+    "total":"350",
+    "mold":"通用纸板",
+    "purchase_id":"1",
+    "storage_name":"A",
+    "type":"入库"
+}

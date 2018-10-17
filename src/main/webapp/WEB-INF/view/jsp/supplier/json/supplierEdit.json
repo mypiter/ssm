@@ -1,0 +1,11 @@
+{
+    "supplier_id":1,
+    "supplier_name":"江西晟丰",
+    "supplier_address":"江西南昌市青山湖区",
+    "supplier_tel": "13699509973",
+    "max_width":"58",
+    "max_length":"66",
+    "min_width":"10",
+    "min_length":"22",
+    "unit":"cm"
+}

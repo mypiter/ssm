@@ -1,0 +1,29 @@
+{
+	"rows":[
+	{
+	    "stock_id":1,
+	    "order_account":"18011316531000",
+	    "model_name":"天地箱",
+	    "num":550,
+	    "time":"2017-3-6",
+	    "making_spec":"送货上门"
+	},
+	{
+	    "stock_id":1,
+	    "order_account":"18011316531000",
+	    "model_name":"天地箱",
+	    "num":550,
+	    "time":"2017-3-6",
+	    "making_spec":"送货上门"
+	},
+	{
+	    "stock_id":1,
+	    "order_account":"18011316531000",
+	    "model_name":"天地箱",
+	    "num":550,
+	    "time":"2017-3-6",
+	    "making_spec":"送货上门"
+	}
+	],
+	"total": "3"
+ }

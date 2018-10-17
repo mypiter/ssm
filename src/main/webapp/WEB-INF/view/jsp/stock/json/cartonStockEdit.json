@@ -1,0 +1,16 @@
+{
+    "stock_id":1,
+    "order_account":"18011316531000",
+    "corporate_name":"江西纸箱总办",
+    "carton_spec":"KC",
+    "model_name":"天地箱",
+    "material":"A级",
+    "pit_type":"BC",
+    "price":"6.5",
+    "order_num":500,
+    "storage_num":500,
+    "out_num":500,
+    "stock_num":650,
+    "storage_name":"A库",
+    "mold":"普通纸箱"
+}

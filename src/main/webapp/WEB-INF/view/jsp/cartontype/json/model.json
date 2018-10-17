@@ -1,0 +1,78 @@
+{
+	"rows":[
+	{   "model_id":"0001",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)"
+       
+	},
+	{   "model_id":"0003",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)" 
+	},
+	{   "model_id":"0004",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)"  
+	},
+	{   "model_id":"0005",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)"   
+	},
+	{   "model_id":"0002",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)"   
+	},
+	{   "model_id":"0006",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)"   
+	},
+	{   "model_id":"0007",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)"  
+	},
+	{   "model_id":"0008",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)"  
+	},
+	{   "model_id":"0009",
+	    "user_company":"九江市一佳嘉业包装",
+    	"model_name":"对口箱",
+    	"pit_type":"坑型",
+	    "material_science":"D636B",
+	    "model_type":"单模板",
+	    "carton_spec":"42.5*36.5*50.0(cm)"   
+	}
+	],
+	"total": "9"
+ }

@@ -1,0 +1,26 @@
+{
+  "Table":[{
+    "consignee":"熊华云",
+    "delivery_number":"SH1532916505691",
+    "custom_company":"江西秋天传媒有限公司",
+    "consignee_address":"江西省南昌市青山湖区京东镇鹿鼎家居",
+    "deli_time":"2018-12-12",
+    "product_name":"纸箱1",
+    "specifications":"",
+    "out_num":100,
+    "carton_price":360
+  },
+    {
+    "consignee":"熊华云",
+    "delivery_number":"SH1532916505691",
+    "custom_company":"江西秋天传媒有限公司",
+    "consignee_address":"江西省南昌市青山湖区京东镇鹿鼎家居",
+    "deli_time":"2018-12-12",
+    "product_name":"纸箱1",
+    "specifications":"",
+    "out_num":100,
+    "carton_price":360
+    }
+
+  ]
+}
